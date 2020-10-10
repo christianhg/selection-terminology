@@ -17,6 +17,7 @@ Misc. characters:
 
 References:
 
+* https://developer.mozilla.org/en-US/docs/Glossary/caret
 * https://en.wikipedia.org/wiki/Cursor_(user_interface)
 * https://www.w3.org/WAI/UA/UAAG10/glossary.html#def-selection
 * https://developer.mozilla.org/en-US/docs/Web/API/Selection
