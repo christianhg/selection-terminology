@@ -1,12 +1,12 @@
 # Selection Terminology
 
-When working with and talking about text selections the terminologies are, unfortunately, often used interchangeably. An imprecise language leads to imprecise specifications which in turn leads to imprecise implementations. This document aims to help clear up the terms.
+When working with and talking about selections the terminologies are, unfortunately, often used interchangeably. An imprecise language leads to imprecise specifications which in turn leads to imprecise implementations. This document aims to help clear up the terms.
 
 ## Essential Terms
 
 To begin with, the essential terms are:
 
-* **Selection**: the highlighted identification of a range of content.
+* **Selection**: The highlighted identification of a range of content.
 * **Start**: The beginning of a given selection.
 * **End**: The end of a given selection.
 * **Anchor**: The place where a selection originated.
