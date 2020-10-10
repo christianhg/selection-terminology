@@ -21,13 +21,11 @@ To begin with, the essential terms are:
 
 At first glance, anchor/focus might just look like a slightly more fancy way of talking about start/end. However, these two sets of terms are not to be confused. Depending on the direction of the selection, the anchor may be situated at the start or at the end of a selection (with the focus on the opposite end).
 
-```
-   ∨
-1A 1B 1C 1D
-2A 2B 2C 2D
-3A 3B 3C 3D
-       ∧
-```
+Look at the following text selection:
+
+![Text selection](text-selection.png)
+
+The selection starts before "2B" and ends after "3E".
 
 Misc. characters:
 
