@@ -1,5 +1,7 @@
 # Selection Terminology
 
+At work we often work with and talk about text selections, and the terminologies are unfortunately used interchangeably. An imprecise language leads to imprecise specifications and imprecise implementations.
+
 Icon | Name | Definition
 ---|---|---
 \| | Caret | The insertion point inside a text editor 
