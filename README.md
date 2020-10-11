@@ -13,9 +13,11 @@ To begin with, the essential terms are:
 * **Focus**: The place where selection ended.
 * **Caret**: The insertion point inside a text editor.
 
-## Selection
+## What Is a Selection
 
-> a list of items on which user operations will take place
+Or, [as formulated on Wikipedia](https://en.wikipedia.org/wiki/Selection_(user_interface)):
+
+> a list of items on which user operations will take place.
 
 ## Anchor/Focus Vs. Start/End
 
